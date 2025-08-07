@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/food-safety-scanner-148492-148520/food_safety_frontend"
+}
